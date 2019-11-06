@@ -21,6 +21,6 @@ public class Book {
     private Integer id;
     @Field(type = FieldType.Auto)
     private String title;
-
+    private String title2;
     private String author;
 }
